@@ -1,0 +1,6 @@
+config/
+data/
+logs/
+venv/
+__pycache__/
+outputs/
