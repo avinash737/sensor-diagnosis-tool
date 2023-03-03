@@ -3,7 +3,7 @@ from typing import List
 from logging import Logger
 from pymongo import MongoClient
 from collections import defaultdict
-from deichmann_plotting import MatrixReader
+from helpers import file_handler
 
 
 class Connector():
@@ -79,8 +79,8 @@ class MongoDbSource(Source):
             for binary in measurement["binaries"]:
                 binaryId = binary
                 binaryData = binariesData.find({"_id": binaryId})
-                LData = MatrixReader.read_foot_matrix_short_from_bson_binary(binaryData["LDatContent"])
-                RData = MatrixReader.read_foot_matrix_short_from_bson_binary(binaryData["RDatContent"])
+                LData = file_handler.read_foot_matrix_short_from_bson_binary(binaryData["LDatContent"])
+                RData = file_handler.read_foot_matrix_short_from_bson_binary(binaryData["RDatContent"])
                 data[date][deviceName]["LDatContent"].append(LData)
                 data[date][deviceName]["RDatContent"].append(RData)
         

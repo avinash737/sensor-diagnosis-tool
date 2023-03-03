@@ -1,14 +1,10 @@
 import pathlib
 import time
 import numpy as np
-import pandas as pd
 import struct
 import gzip
 import os
-import sys
 import warnings
-import shutil
-import base64
 from datetime import datetime
 from pymongo import MongoClient
 from bson.binary import Binary
@@ -407,9 +403,9 @@ def main(input):
 
 
 if __name__ == "__main__":
-    input = "C:/Users/avina/Documents/Incoretex/deichmann_diagnosis_tool/data/run1_7_0SplittedData_FrameByFrame"
+    input = "path/to/data/folder"
     conn = Connector()
-    db = "AviTestDB"
+    db = "testDB"
     device_ids = list(devices.keys())
 
     # binData = get_binaries_data(input)

@@ -2,6 +2,8 @@ import json
 from collections import defaultdict
 import pathlib
 from datetime import datetime
+import struct, gzip
+import numpy as np
 
 
 def get_dict_from_json(json_file_path):
@@ -12,6 +14,33 @@ def get_dict_from_json(json_file_path):
         except:
             data = defaultdict(dict)
     return data
+
+
+def read_foot_matrix_short(filename: str, rows: int, cols: int) -> np.ndarray:
+    matrix: np.ndarray = np.empty((rows, cols), dtype=np.int16)
+
+    with gzip.open(filename, "rb") as f:
+        for i in range(rows):
+            for j in range(cols):
+                try:
+                    matrix[i][j] = struct.unpack("!h", f.read(2))[0]
+                except:
+                    matrix[i][j] = 0
+
+    return matrix
+
+
+def read_foot_matrix_short_from_bson_binary(data, rows: int, cols: int) -> np.ndarray:
+    matrix: np.ndarray = np.empty((rows, cols), dtype=np.int16)
+
+    for i in range(rows):
+        for j in range(cols):
+            try:
+                matrix[i][j] = struct.unpack("!h", data)[0]
+            except:
+                matrix[i][j] = 0
+
+    return matrix
 
 
 def save_report_to_file(report, path):

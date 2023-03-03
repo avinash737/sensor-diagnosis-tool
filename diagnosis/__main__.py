@@ -118,14 +118,6 @@ def headless(start_date=datetime.today().date(), end_date=datetime.today().date(
         tests[name] = plugin(config["tests"][name], logger=logger)
         logger.debug(f"Instantiated test '{name}'.")
 
-    # from here, the code would be something like this:
-
-    # - Get data from source
-    # - Supply this data to all tests and run them
-    # - Gather the results from all tests
-    # - Accumulate the results
-    # - Supply the results to sink
-
     # SOURCE
     # Currently this calls the plugin from source.py
     source = src.MongoDbSource(config, logger, start_date, end_date)
