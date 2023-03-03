@@ -7,7 +7,6 @@ from datetime import datetime
 from plugins.helpers.feet_merger import get_merged_data
 from plugins.helpers.split_detector import is_split
 
-
 class LineDetector(Test):
     def __init__(self, config: dict, logger: Logger) -> None:
         super().__init__(config, logger)

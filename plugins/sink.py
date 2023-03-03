@@ -1,4 +1,4 @@
-from diagnosis.pluginBase import Data, Sink
+from diagnosis.pluginBase import Sink
 from logging import Logger
 from pymongo import MongoClient
 
