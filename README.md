@@ -1,4 +1,4 @@
-# Diagnosis Tool
+# Sensor Diagnosis Tool
 
 ## Environment Variables
 
