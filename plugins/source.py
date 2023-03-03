@@ -3,7 +3,7 @@ from typing import List
 from logging import Logger
 from pymongo import MongoClient
 from collections import defaultdict
-from helpers import file_handler
+from plugins.helpers import file_handler
 
 
 class Connector():
