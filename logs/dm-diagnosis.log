@@ -1,0 +1,449 @@
+2023-02-14 23:04:36,262 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:04:36,263 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:04:48,097 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:04:48,097 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:05:02,663 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:05:02,663 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:05:11,478 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:05:11,478 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:05:11,483 INFO[__main__] : Starting headless mode...
+2023-02-14 23:05:11,483 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:05:11,488 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:05:11,488 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:05:58,455 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:05:58,455 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:05:58,461 INFO[__main__] : Starting headless mode...
+2023-02-14 23:05:58,461 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:05:58,462 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:05:58,462 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:05:58,474 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:07:26,657 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:07:26,658 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:07:26,663 INFO[__main__] : Starting headless mode...
+2023-02-14 23:07:26,663 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:07:26,664 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:07:26,665 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:07:26,672 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:08:04,077 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:08:04,077 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:08:04,080 INFO[__main__] : Starting headless mode...
+2023-02-14 23:08:04,080 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:08:04,081 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:08:04,081 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:08:04,091 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:08:47,034 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:08:47,035 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:08:47,037 INFO[__main__] : Starting headless mode...
+2023-02-14 23:08:47,037 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:08:47,041 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:08:47,042 DEBUG[pluginHelpers] : Loading plugin from 'source_MongoDb'.
+2023-02-14 23:08:47,043 ERROR[pluginHelpers] : Plugin 'source_MongoDb' cannot be found.
+2023-02-14 23:09:00,686 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:09:00,686 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:09:00,690 INFO[__main__] : Starting headless mode...
+2023-02-14 23:09:00,690 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:09:00,693 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:09:00,694 DEBUG[pluginHelpers] : Loading plugin from 'MongoDbSource'.
+2023-02-14 23:09:00,694 ERROR[pluginHelpers] : Plugin 'MongoDbSource' cannot be found.
+2023-02-14 23:11:43,302 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:11:43,302 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:11:43,304 INFO[__main__] : Starting headless mode...
+2023-02-14 23:11:43,304 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:11:43,305 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:11:43,305 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:11:43,307 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:12:00,688 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:12:00,688 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:12:00,691 INFO[__main__] : Starting headless mode...
+2023-02-14 23:12:00,692 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:12:00,697 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:12:00,697 DEBUG[pluginHelpers] : Loading plugin from 'source.py'.
+2023-02-14 23:12:00,699 ERROR[pluginHelpers] : Plugin 'source.py' cannot be found.
+2023-02-14 23:12:53,136 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:12:53,136 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:12:53,139 INFO[__main__] : Starting headless mode...
+2023-02-14 23:12:53,139 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:12:53,143 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:12:53,143 DEBUG[pluginHelpers] : Loading plugin from 'plugins/source'.
+2023-02-14 23:12:53,144 ERROR[pluginHelpers] : Plugin 'plugins/source' cannot be found.
+2023-02-14 23:13:08,181 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:13:08,182 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:13:08,184 INFO[__main__] : Starting headless mode...
+2023-02-14 23:13:08,185 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:13:08,189 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:13:08,190 DEBUG[pluginHelpers] : Loading plugin from 'plugins/source.py'.
+2023-02-14 23:13:08,190 ERROR[pluginHelpers] : Plugin 'plugins/source.py' cannot be found.
+2023-02-14 23:14:08,082 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:14:08,082 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:14:08,086 INFO[__main__] : Starting headless mode...
+2023-02-14 23:14:08,087 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:14:08,090 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:14:08,091 DEBUG[pluginHelpers] : Loading plugin from '..plugins/source.py'.
+2023-02-14 23:14:55,976 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:14:55,976 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:14:55,980 INFO[__main__] : Starting headless mode...
+2023-02-14 23:14:55,980 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:14:55,982 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:14:55,982 DEBUG[pluginHelpers] : Loading plugin from 'plugins/source.py'.
+2023-02-14 23:14:55,983 ERROR[pluginHelpers] : Plugin 'plugins/source.py' cannot be found.
+2023-02-14 23:15:12,346 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:15:12,346 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:15:12,350 INFO[__main__] : Starting headless mode...
+2023-02-14 23:15:12,350 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:15:12,352 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:15:12,352 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:15:12,353 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:16:52,751 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:16:52,752 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:16:52,754 INFO[__main__] : Starting headless mode...
+2023-02-14 23:16:52,754 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:16:52,755 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:16:52,755 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:16:52,756 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:23:30,898 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:23:30,898 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:23:30,902 INFO[__main__] : Starting headless mode...
+2023-02-14 23:23:30,902 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:23:30,906 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:23:30,907 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:23:30,908 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:23:40,566 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:23:40,566 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:23:40,569 INFO[__main__] : Starting headless mode...
+2023-02-14 23:23:40,569 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:23:40,570 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:23:40,570 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:23:40,571 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:27:04,566 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:27:04,567 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:27:04,569 INFO[__main__] : Starting headless mode...
+2023-02-14 23:27:04,569 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:27:04,570 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:27:04,570 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:27:04,572 ERROR[pluginHelpers] : Plugin 'source' does not have 'export' property.
+2023-02-14 23:28:58,161 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:28:58,162 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:28:58,165 INFO[__main__] : Starting headless mode...
+2023-02-14 23:28:58,165 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:28:58,166 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:28:58,166 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:28:58,167 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:29:03,477 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:29:03,477 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:29:03,480 INFO[__main__] : Starting headless mode...
+2023-02-14 23:29:03,480 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:29:03,481 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:29:03,481 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:29:03,482 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:29:30,681 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:29:30,682 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:29:30,685 INFO[__main__] : Starting headless mode...
+2023-02-14 23:29:30,685 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:29:30,686 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:29:30,686 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:29:30,686 ERROR[pluginHelpers] : Plugin 'source' does not have 'export' property.
+2023-02-14 23:30:28,373 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:30:28,373 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:30:28,376 INFO[__main__] : Starting headless mode...
+2023-02-14 23:30:28,376 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:30:28,377 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:30:28,377 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:30:28,379 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:33:46,078 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:33:46,078 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:33:46,081 INFO[__main__] : Starting headless mode...
+2023-02-14 23:33:46,082 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:33:46,083 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:33:46,083 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:33:46,086 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:42:21,764 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:42:21,765 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:42:21,767 INFO[__main__] : Starting headless mode...
+2023-02-14 23:42:21,768 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:42:21,768 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:42:21,769 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:42:21,772 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:42:33,556 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:42:33,556 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:42:33,559 INFO[__main__] : Starting headless mode...
+2023-02-14 23:42:33,560 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:42:33,560 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:42:33,560 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:42:33,561 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:42:45,988 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:42:45,988 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:42:45,992 INFO[__main__] : Starting headless mode...
+2023-02-14 23:42:45,992 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:42:45,997 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:42:45,997 DEBUG[pluginHelpers] : Loading plugin from 'source_MongoDb'.
+2023-02-14 23:42:46,001 ERROR[pluginHelpers] : Plugin 'source_MongoDb' cannot be found.
+2023-02-14 23:42:54,503 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:42:54,503 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:42:54,506 INFO[__main__] : Starting headless mode...
+2023-02-14 23:42:54,506 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:42:54,508 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:42:54,508 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:42:54,512 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:44:38,191 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:44:38,192 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:44:38,195 INFO[__main__] : Starting headless mode...
+2023-02-14 23:44:38,196 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:44:38,196 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:44:38,197 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:44:38,198 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:44:43,197 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:44:43,197 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:44:43,204 INFO[__main__] : Starting headless mode...
+2023-02-14 23:44:43,204 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:44:43,205 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:44:43,205 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:44:43,207 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:44:46,501 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:44:46,502 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:44:46,504 INFO[__main__] : Starting headless mode...
+2023-02-14 23:44:46,505 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:44:46,505 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:44:46,506 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:44:46,507 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:44:51,632 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:44:51,633 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:45:05,738 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:45:05,738 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:45:05,741 INFO[__main__] : Starting headless mode...
+2023-02-14 23:45:05,741 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:45:05,742 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:45:05,742 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:45:05,744 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:48:17,292 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:48:17,292 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:48:17,295 INFO[__main__] : Starting headless mode...
+2023-02-14 23:48:17,295 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:48:17,296 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:48:17,296 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:48:17,298 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:50:55,685 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:50:55,685 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:50:55,688 INFO[__main__] : Starting headless mode...
+2023-02-14 23:50:55,688 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:50:55,690 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:50:55,690 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:50:55,691 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:51:34,658 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:51:34,659 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:51:34,661 INFO[__main__] : Starting headless mode...
+2023-02-14 23:51:34,661 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:51:34,662 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:51:34,662 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:51:34,663 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:51:44,432 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:51:44,432 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:51:49,677 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:51:49,677 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:51:49,682 INFO[__main__] : Starting headless mode...
+2023-02-14 23:51:49,682 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:51:49,682 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:51:49,682 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:51:49,684 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:52:51,596 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:52:51,596 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:52:51,599 INFO[__main__] : Starting headless mode...
+2023-02-14 23:52:51,599 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:52:51,605 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:52:51,605 DEBUG[pluginHelpers] : Loading plugin from 'plugins/source'.
+2023-02-14 23:52:51,606 ERROR[pluginHelpers] : Plugin 'plugins/source' cannot be found.
+2023-02-14 23:54:04,139 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:54:04,140 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:54:04,142 INFO[__main__] : Starting headless mode...
+2023-02-14 23:54:04,143 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:54:04,143 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:54:04,143 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-14 23:54:04,146 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-14 23:55:57,242 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:55:57,243 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:55:57,246 INFO[__main__] : Starting headless mode...
+2023-02-14 23:55:57,246 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:56:09,790 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:56:09,790 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:56:09,793 INFO[__main__] : Starting headless mode...
+2023-02-14 23:56:09,793 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:56:09,797 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:56:09,797 DEBUG[pluginHelpers] : Loading plugin from 'plugins/source.py'.
+2023-02-14 23:56:09,798 ERROR[pluginHelpers] : Plugin 'plugins/source.py' cannot be found.
+2023-02-14 23:56:18,895 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:56:18,895 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:56:18,898 INFO[__main__] : Starting headless mode...
+2023-02-14 23:56:18,898 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:56:18,902 DEBUG[__main__] : Config successfully loaded.
+2023-02-14 23:56:18,902 DEBUG[pluginHelpers] : Loading plugin from 'plugins\source.py'.
+2023-02-14 23:56:18,902 ERROR[pluginHelpers] : Plugin 'plugins\source.py' cannot be found.
+2023-02-14 23:57:48,896 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-14 23:57:48,896 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-14 23:57:48,899 INFO[__main__] : Starting headless mode...
+2023-02-14 23:57:48,899 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-14 23:57:48,903 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:00:46,046 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:00:46,047 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:00:46,049 INFO[__main__] : Starting headless mode...
+2023-02-15 00:00:46,049 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:00:46,051 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:00:46,051 DEBUG[pluginHelpers] : Loading plugin from 'plugins/source.py'.
+2023-02-15 00:00:46,051 ERROR[pluginHelpers] : Plugin 'plugins/source.py' cannot be found.
+2023-02-15 00:01:19,455 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:01:19,455 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:01:19,458 INFO[__main__] : Starting headless mode...
+2023-02-15 00:01:19,458 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:01:19,462 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:01:19,462 DEBUG[pluginHelpers] : Loading plugin from 'source.py'.
+2023-02-15 00:01:19,466 ERROR[pluginHelpers] : Plugin 'source.py' cannot be found.
+2023-02-15 00:01:29,326 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:01:29,327 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:01:29,329 INFO[__main__] : Starting headless mode...
+2023-02-15 00:01:29,329 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:01:29,330 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:01:29,331 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-15 00:01:29,332 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-15 00:02:01,722 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:02:01,722 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:02:01,725 INFO[__main__] : Starting headless mode...
+2023-02-15 00:02:01,726 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:02:01,726 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:02:01,727 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-15 00:02:01,728 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-15 00:03:23,180 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:03:23,180 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:03:23,183 INFO[__main__] : Starting headless mode...
+2023-02-15 00:03:23,184 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:03:23,184 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:03:23,184 DEBUG[pluginHelpers] : Loading plugin from 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\pluginssource'.
+2023-02-15 00:03:23,185 ERROR[pluginHelpers] : Plugin 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\pluginssource' cannot be found.
+2023-02-15 00:03:55,614 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:03:55,615 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:03:55,617 INFO[__main__] : Starting headless mode...
+2023-02-15 00:03:55,617 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:03:55,618 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:05:30,673 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:05:30,673 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:05:30,676 INFO[__main__] : Starting headless mode...
+2023-02-15 00:05:30,677 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:05:30,677 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:05:30,677 DEBUG[pluginHelpers] : Loading plugin from 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source'.
+2023-02-15 00:05:30,678 ERROR[pluginHelpers] : Plugin 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source' cannot be found.
+2023-02-15 00:05:47,157 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:05:47,158 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:05:47,161 INFO[__main__] : Starting headless mode...
+2023-02-15 00:05:47,161 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:05:47,162 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:05:47,162 DEBUG[pluginHelpers] : Loading plugin from 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source.py'.
+2023-02-15 00:05:47,163 ERROR[pluginHelpers] : Plugin 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source.py' cannot be found.
+2023-02-15 00:06:39,521 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:06:39,521 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:06:39,524 INFO[__main__] : Starting headless mode...
+2023-02-15 00:06:39,524 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:06:39,525 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:06:39,526 DEBUG[pluginHelpers] : Loading plugin from 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source'.
+2023-02-15 00:06:39,526 ERROR[pluginHelpers] : Plugin 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source' cannot be found.
+2023-02-15 00:09:10,509 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:09:10,509 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:09:10,513 INFO[__main__] : Starting headless mode...
+2023-02-15 00:09:10,513 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:09:10,514 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:09:10,515 DEBUG[pluginHelpers] : Loading plugin from 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source'.
+2023-02-15 00:09:10,515 ERROR[pluginHelpers] : Plugin 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source' cannot be found.
+2023-02-15 00:09:42,855 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:09:42,855 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:09:42,858 INFO[__main__] : Starting headless mode...
+2023-02-15 00:09:42,859 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:09:42,863 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:09:42,864 DEBUG[pluginHelpers] : Loading plugin from 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source.py'.
+2023-02-15 00:09:42,864 ERROR[pluginHelpers] : Plugin 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source.py' cannot be found.
+2023-02-15 00:10:09,656 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:10:09,656 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:10:09,659 INFO[__main__] : Starting headless mode...
+2023-02-15 00:10:09,659 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:10:09,660 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:10:09,660 DEBUG[pluginHelpers] : Loading plugin from 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source'.
+2023-02-15 00:10:09,661 ERROR[pluginHelpers] : Plugin 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source' cannot be found.
+2023-02-15 00:11:04,947 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:11:04,947 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:11:04,950 INFO[__main__] : Starting headless mode...
+2023-02-15 00:11:04,951 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:11:04,951 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:11:04,951 DEBUG[pluginHelpers] : Loading plugin from 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source\.py'.
+2023-02-15 00:11:04,952 ERROR[pluginHelpers] : Plugin 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source\.py' cannot be found.
+2023-02-15 00:11:23,494 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:11:23,494 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:11:23,497 INFO[__main__] : Starting headless mode...
+2023-02-15 00:11:23,498 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:11:23,498 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:11:23,498 DEBUG[pluginHelpers] : Loading plugin from 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source.py'.
+2023-02-15 00:11:23,499 ERROR[pluginHelpers] : Plugin 'C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins\source.py' cannot be found.
+2023-02-15 00:18:03,338 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:18:03,338 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:18:03,341 INFO[__main__] : Starting headless mode...
+2023-02-15 00:18:03,341 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:18:03,342 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:18:03,342 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-15 00:18:03,345 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-15 00:18:56,972 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:18:56,973 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:18:56,976 INFO[__main__] : Starting headless mode...
+2023-02-15 00:18:56,976 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:18:56,977 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:18:56,977 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-15 00:18:56,978 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-15 00:19:13,486 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:19:13,486 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:19:13,489 INFO[__main__] : Starting headless mode...
+2023-02-15 00:19:13,489 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:19:13,494 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:19:13,494 DEBUG[pluginHelpers] : Loading plugin from 'MongoDbSource'.
+2023-02-15 00:19:13,497 ERROR[pluginHelpers] : Plugin 'MongoDbSource' cannot be found.
+2023-02-15 00:21:04,525 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:21:04,525 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:21:04,528 INFO[__main__] : Starting headless mode...
+2023-02-15 00:21:04,528 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:21:04,530 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:21:04,530 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-15 00:21:04,531 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-15 00:35:42,240 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:35:42,240 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:35:42,244 INFO[__main__] : Starting headless mode...
+2023-02-15 00:35:42,244 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:35:42,249 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:35:42,249 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-15 00:35:42,251 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-15 00:37:28,955 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:37:28,956 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:37:28,959 INFO[__main__] : Starting headless mode...
+2023-02-15 00:37:28,959 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:37:28,960 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:37:28,960 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-15 00:37:28,962 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-15 00:38:23,852 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:38:23,852 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:38:23,855 INFO[__main__] : Starting headless mode...
+2023-02-15 00:38:23,855 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:38:23,856 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:38:23,856 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-15 00:38:23,858 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-15 00:40:53,438 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:40:53,438 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:40:53,441 INFO[__main__] : Starting headless mode...
+2023-02-15 00:40:53,441 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:40:53,442 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:40:53,442 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-15 00:40:53,443 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-15 00:41:12,510 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 00:41:12,510 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 00:41:12,514 INFO[__main__] : Starting headless mode...
+2023-02-15 00:41:12,514 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 00:41:12,515 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 00:41:12,515 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-15 00:41:12,516 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
+2023-02-15 02:34:42,151 DEBUG[__main__] : CONFIG_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml
+2023-02-15 02:34:42,151 DEBUG[__main__] : PLUGINS_PATH=C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\plugins
+2023-02-15 02:34:42,155 INFO[__main__] : Starting headless mode...
+2023-02-15 02:34:42,155 DEBUG[__main__] : Loading config from "C:\Users\avina\Documents\Incoretex\deichmann_diagnosis_tool\config\config.toml".
+2023-02-15 02:34:42,155 DEBUG[__main__] : Config successfully loaded.
+2023-02-15 02:34:42,156 DEBUG[pluginHelpers] : Loading plugin from 'source'.
+2023-02-15 02:34:42,157 ERROR[pluginHelpers] : Plugin 'source' cannot be found.
